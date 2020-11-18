@@ -4,3 +4,5 @@
 * Hadoop
 * Docker
 * Terminal
+* team
+* ansible
