@@ -1,8 +1,2 @@
-# techo-Hub
+# Python
 
-* AWS
-* Hadoop
-* Docker
-* Terminal
-* team
-* ansible
